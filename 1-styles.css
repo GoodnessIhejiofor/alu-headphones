@@ -568,7 +568,7 @@ body {
   }
 }
 
-/* DESKTOP */
+/* DESKTOP Responsiveness */
 
 @media screen and (min-width: 1024px) {
   .wrapper {
